@@ -52,3 +52,4 @@ def game_core_v3(number: int = 1) -> int:
 
 print('Run benchmarking for game_core_v3: ', end='')
 score_game(game_core_v3)
+
